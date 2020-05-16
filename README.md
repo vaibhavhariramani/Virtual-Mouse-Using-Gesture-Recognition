@@ -41,7 +41,7 @@ Finally ,this is how it will look like.
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
 
-https://sites.google.com/view/geeky-traveller/computer-vision/histogram-of-oriented-gradients-and-object-detection
+https://sites.google.com/view/geeky-traveller/computer-vision/
 
 ### Made with ❤️by Vaibhav Hariramani
 #### About me
